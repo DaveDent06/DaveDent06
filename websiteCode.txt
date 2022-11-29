@@ -68,7 +68,7 @@ body {
       </ul><br>
       <li><strong>Dental Extraction</strong></li>
     </ul><br> 
-    <p>Webpage poweredBy:DigitalDentalStudio<div style="text-align:center;"></div></p>
+    <p>WebpageBy:DigitalDentalStudio<div style="text-align:center;"></div></p>
    
   </div>
  
